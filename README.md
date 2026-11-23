@@ -2,7 +2,7 @@
 
 | Campo | Detalle |
 |---|---|
-| Autor único | Dennys Parra |
+| Estudiante | Dennys Parra |
 | Curso | Data Science II — Machine Learning, Coderhouse |
 | Entrega | Pre-entrega del módulo 14 |
 
